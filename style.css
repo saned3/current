@@ -2,8 +2,9 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-  font-family: "IBM Plex Sans Arabic", sans-serif;
+  	font-family: "IBM Plex Sans Arabic", sans-serif;
 	direction: rtl;
+	font-style: normal;
 }
 html{
 	scroll-behavior: smooth;
@@ -892,3 +893,4 @@ section.footer{
     }
 
   }
+
